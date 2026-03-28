@@ -20,7 +20,7 @@ A React-based web app that allows users to search and explore recipes from diffe
 
 ## 🌐 Live Demo
 
-recipe-meal-app-react.vercel.app
+http://recipe-meal-app-react.vercel.app
 
 ## 📂 Installation
 
